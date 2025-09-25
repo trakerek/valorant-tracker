@@ -18,9 +18,10 @@ API_KEY=TWÓJ_KLUCZ_API
 ## 🛠️ Uruchamianie (wersja developerska)
 
 1. Sklonuj repozytorium:
+```bash
 git clone https://github.com/twoj-repo/valorant-tracker.git
 cd valorant-tracker
-
+```
 2. Zainstaluj wymagane paczki:
 pip install -r requirements.txt
 
