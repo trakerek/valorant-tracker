@@ -19,7 +19,7 @@ API_KEY=TWÓJ_KLUCZ_API
 
 1. Sklonuj repozytorium:
 ```bash
-git clone https://github.com/twoj-repo/valorant-tracker.git
+git clone https://github.com/trakerek/valorant-tracker.git
 cd valorant-tracker
 ```
 2. Zainstaluj wymagane paczki:
