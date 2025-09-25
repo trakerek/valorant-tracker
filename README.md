@@ -28,3 +28,7 @@ pip install -r requirements.txt
    
 4. Uruchom:
 python main.py
+
+---
+## Jeżeli chcesz samemu zrobić plik .exe, użyj PyInstaller:
+pyinstaller --onefile --noconsole main.py
